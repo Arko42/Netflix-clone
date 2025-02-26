@@ -9,7 +9,4 @@ Search and filter options
 Backend API for content management
 
 Tech Stack
-Frontend: React, Next.js, Tailwind CSS
-Backend: Node.js, Express, MongoDB
-Authentication: Firebase/Auth0
-Streaming: Video.js
+Frontend: HTML, CSS, js
