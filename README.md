@@ -10,5 +10,7 @@ Backend API for content management
 Technology Stack
 Frontend: HTML, CSS, JavaScript
 
+No backend is here to work. 
+
 License
 No license information provided.
